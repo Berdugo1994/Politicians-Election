@@ -2,9 +2,9 @@
 
 
 
-Election Simulate 'Republicans VS Democratics'.
+Election Simulate **'Republicans VS Democratics'**.
 
-files List:
+**files List:**
 
 ![image](https://i.ibb.co/WD3h1kf/Files-List.png)
 
@@ -21,7 +21,7 @@ You can run it with windows:
 ![image](https://i.ibb.co/Mfr8cXj/config.png)
 
 
-Summary:
+**Summary:**
 Build your own Knesset! add politicians - with power and choose their side of the map.
 
 Each politician can be social or leader and part of Democratics/Republicans.
@@ -35,12 +35,14 @@ Using Observer Design Pattern and Polymorphism.
 The code Written in C++ language and include makefile to run with Linux-Terminal.
 
 
-Main Screen Shot:
+**Main** Screen Shot:
+
 ![image](https://i.ibb.co/Y7sBZ5W/Menu-Screeshot.png)
 
 
-print politicians case:
+**print politicians case:**
+
 ![image](https://i.ibb.co/DMBxDvc/Print-Screen-Shot.png)
 
 
-**Make Israel Great Again**
+**Make Israel Great Again!!!**
