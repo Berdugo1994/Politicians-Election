@@ -3,7 +3,7 @@ Election Simulate 'Republicans VS Democratics'.
 
 files List:
 
-[!image](https://i.ibb.co/WD3h1kf/Files-List.png)
+![image](https://i.ibb.co/WD3h1kf/Files-List.png)
 A part from project at "Advanced Programming" course, Ben Gurion University.
 Using Observer Design Pattern, OOP, File Read and parsing to objects, Polymorphism high level implementation, pointers and many more.
 
@@ -11,7 +11,7 @@ Using Observer Design Pattern, OOP, File Read and parsing to objects, Polymorphi
 Build for running with linux terminal use makefile. optoinal- add initFile path to load your politicians and parties from text file in your running line code!
 
 You can run it with windows:
-[!image](https://i.ibb.co/Mfr8cXj/config.png)
+![image](https://i.ibb.co/Mfr8cXj/config.png)
 
 
 Summary:
@@ -29,11 +29,11 @@ The code Written in C++ language and include makefile to run with Linux-Terminal
 
 
 Main Screen Shot:
-[image](https://i.ibb.co/Y7sBZ5W/Menu-Screeshot.png)
+![image](https://i.ibb.co/Y7sBZ5W/Menu-Screeshot.png)
 
 
 print politicians case:
-[!image](https://i.ibb.co/DMBxDvc/Print-Screen-Shot.png)
+![image](https://i.ibb.co/DMBxDvc/Print-Screen-Shot.png)
 
 
 **Make Israel Great Again**
