@@ -1,5 +1,6 @@
 # Politicians-Election
-
+Part from project of "Advanced Programming" course, Ben Gurion University.
+Using Observer Design Pattern, OOP, File Read and parsing to objects, Polymorphism high level implementation, pointers and many more.
 
 
 Election Simulate **'Republicans VS Democratics'**.
@@ -9,8 +10,7 @@ Election Simulate **'Republicans VS Democratics'**.
 ![image](https://i.ibb.co/WD3h1kf/Files-List.png)
 
 
-A part from project of "Advanced Programming" course, Ben Gurion University.
-Using Observer Design Pattern, OOP, File Read and parsing to objects, Polymorphism high level implementation, pointers and many more.
+
 
 
 Build for running with linux terminal use makefile. optoinal- add initFile path to load your politicians and parties from text file in your running line code!
